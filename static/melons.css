@@ -1,0 +1,12 @@
+.nav, .navbar, .navbar-default {
+    background-color: #daf1af;
+    border-color: #96d694;
+}
+
+.navbar-default .navbar-brand {
+    color: black;
+}
+
+.navbar-default .navbar-nav > li > a{
+    color: #8a6d3b;
+}
